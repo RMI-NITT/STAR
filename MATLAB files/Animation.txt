@@ -1,0 +1,25 @@
+fs = 10000; %Sampling frequency 10 GHz
+ts = 1/fs; %Sampling interval
+L = 1e4;
+t = (0:L-1)*ts; %Time vector
+l = length(t);
+f = fs*(0:l/2)/l;
+
+f1 = 100*10^0; %Minimum frequency
+f2 = 200*10^0; %Maximum frequency
+K = 1e1; %Chirp slope
+%x = 100*cos(2*pi*f1*t + pi*K*t.^2); %Sawtooth FMCW
+c = 3*10^8;
+
+% t = 0:1:100;
+% x = sin(t);
+h = animatedline;
+h.Color = 'blue';
+x = (f1+K*t);
+for i = 1:length(t)
+    addpoints(h,t(i),x(i));
+    drawnow;pause(0.01);
+    xlabel('Time');ylabel('Amplitude');title('Transmitted chirp');
+      
+end
+
