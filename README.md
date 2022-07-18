@@ -8,4 +8,6 @@ The main objectives of this project are to
   1. Detect and measure vital signs of animals.
   2. Tracking both animal and human movements to prevent poaching and hunting in wildlife sanctuaries.
 
+This project proposes the use of Frequency Modulated Continuous Wave radar to send and analyse signals to detect and estimate respiration and heartbeat frequencies. Being capable of measuring vital signs(through non-contact methods) and having a wider ﬁeld, it is more advantageous than the existing alternatives. Through its implementation, detection of human activity and the vital signs of the animals in the reserves can be easily monitored.
+
 ![imgonline-com-ua-twotoone-ReQTNrdInH](https://user-images.githubusercontent.com/83502978/179454096-eec3a779-d967-4710-87ca-163635abd7cc.png)
