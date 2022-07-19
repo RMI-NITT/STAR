@@ -15,5 +15,6 @@ This project proposes the use of Frequency Modulated Continuous Wave radar to se
 
 Weather is not a constraint and this system can work all day long. The radar technology gives real time tracking of the vital signs of the animals by emitting waves and analyzing the reflected waves. This eliminates the demerits of wearing a physical device and the time taken for this estimation is less due to high-end signal processors.
 
+![imgonline-com-ua-twotoone-Iv42vGAOsMq6QiSZ](https://user-images.githubusercontent.com/83502978/179812445-e7084af4-6691-4f7f-94ac-93b1cca28c6a.png)
 
-![imgonline-com-ua-twotoone-ReQTNrdInH](https://user-images.githubusercontent.com/83502978/179454096-eec3a779-d967-4710-87ca-163635abd7cc.png)
+
