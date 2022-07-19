@@ -1,9 +1,12 @@
 # STAR
 System for Tracking Animals using Radar - Sangam, Pragyan'22
 
-In the course of the last century alone, the planet witnessed the extinction of 18 species of animals. A multitude of wildlife sanctuaries have been established around the globe with the sole purpose of protecting and preserving wildlife in their natural habitat. Despite their eﬀorts, acts of poaching and hunting continue to threaten the existence of many animal species. Locating and monitoring the movement and vitals of the animals in reserves are
-challenging. Existing methods involve use of cameras, which prove to be disadvantageous because of their limited ﬁeld of vision and range, and poor performance in harsh weather conditions. While microchip implants that use may help track the diﬀerent animals of the same species, it cannot actively locate or track the vitals of the said animals. GPS devices are also not a feasible option as they are susceptible to damage and are too large to be implanted into animals.
-The main objectives of this project are to
+In the course of the last century alone, the planet witnessed the extinction of 18 species of animals. A multitude of wildlife sanctuaries have been established around the globe with the sole purpose of protecting and preserving wildlife in their natural habitat. Despite their eﬀorts, acts of poaching and hunting continue to threaten the existence of many animal species. Locating and monitoring the movement and vitals of the animals in reserves are challenging. 
+
+Some of the existing models for the purpose of tracking wild beings use methods like microchips and GPS which require a physical device to be worn by the animal at all times. This is not feasible as these devices are prone to damage, usually heavy and cannot be used for smaller animals. Further, it gives no information with respect to
+monitoring of heartbeat and breathing rate in contrast to this proposed solution. Weather is not a constraint and this system can work all day long. The radar
+technology gives real time tracking of the vital signs of the animals by emitting waves and analyzing the reflected waves. This eliminates the demerits of wearing a
+physical device and the time taken for this estimation is less.
 
   1. Detect and measure vital signs of animals.
   2. Tracking both animal and human movements to prevent poaching and hunting in wildlife sanctuaries.
