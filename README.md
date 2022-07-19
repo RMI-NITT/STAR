@@ -7,7 +7,7 @@ In the course of the last century alone, the planet witnessed the extinction of 
 # Existing Technology
 Some of the existing models for the purpose of tracking wild beings use methods like microchips and GPS which require a physical device to be worn by the animal at all times. This is not feasible as these devices are prone to damage, usually heavy and cannot be used for smaller animals. Furthermore, it gives no information with respect to monitoring of heartbeat and breathing rate.
 
-# Proposed Solution
+## Proposed Solution
 This project proposes the use of Frequency Modulated Continuous Wave radar to send and analyse signals to detect and estimate respiration and heartbeat frequencies. Being capable of measuring vital signs(through non-contact methods) and having a wider ﬁeld, it is more advantageous than the existing alternatives. Through its implementation the following can be acheived:
 
   1. Detect and measure vital signs of animals.
