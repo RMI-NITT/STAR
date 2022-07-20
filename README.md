@@ -18,7 +18,8 @@ Weather is not a constraint and this system can work all day long. The radar tec
 #### FMCW 
 
 ##### Triangulated FMCW
-![2-Figure2-1](https://user-images.githubusercontent.com/83502978/179923620-d341dc50-9843-43d3-b159-e9f7793de79f.png)
+![fmcw_prinzip(2)](https://user-images.githubusercontent.com/83502978/179925186-79d7870a-0c61-42b2-a17a-f8900c74a2b1.png)
+In a triangular-shaped frequency changing, a distance measurement can be performed on both the rising and on the falling edge.
 
 
 ##### Sawtooth FMCW
