@@ -19,13 +19,9 @@ Weather is not a constraint and this system can work all day long. The radar tec
 
 ##### Triangulated FMCW
 ![fmcw_prinzip(2)](https://user-images.githubusercontent.com/83502978/179925186-79d7870a-0c61-42b2-a17a-f8900c74a2b1.png)
-In a triangular-shaped frequency changing, a distance measurement can be performed on both the rising and on the falling edge.
-
 
 ##### Sawtooth FMCW
 ![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
-
-Sawtooth modulation is the most used in FMCW radars where range is desired for objects that lack rotating parts. Range information is mixed with the Doppler velocity using this technique. Modulation can be turned off on alternate scans to identify velocity using unmodulated carrier frequency shift. This allows range and velocity to be found with one radar set. Triangle wave modulation can be used to achieve the same goal.
 
 #### Hardware
 https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
