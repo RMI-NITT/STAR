@@ -18,7 +18,8 @@ Weather is not a constraint and this system can work all day long. The radar tec
 #### FMCW 
 
 ##### Triangulated FMCW
-![imgonline-com-ua-twotoone-Iv42vGAOsMq6QiSZ](https://user-images.githubusercontent.com/83502978/179812445-e7084af4-6691-4f7f-94ac-93b1cca28c6a.png)
+![2-Figure2-1](https://user-images.githubusercontent.com/83502978/179923620-d341dc50-9843-43d3-b159-e9f7793de79f.png)
+
 
 ##### Sawtooth FMCW
 ![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
