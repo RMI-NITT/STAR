@@ -21,6 +21,8 @@ Weather is not a constraint and this system can work all day long. The radar tec
 ![imgonline-com-ua-twotoone-Iv42vGAOsMq6QiSZ](https://user-images.githubusercontent.com/83502978/179812445-e7084af4-6691-4f7f-94ac-93b1cca28c6a.png)
 
 ##### Sawtooth FMCW
+![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
+
 Sawtooth modulation is the most used in FMCW radars where range is desired for objects that lack rotating parts. Range information is mixed with the Doppler velocity using this technique. Modulation can be turned off on alternate scans to identify velocity using unmodulated carrier frequency shift. This allows range and velocity to be found with one radar set. Triangle wave modulation can be used to achieve the same goal.
 
 #### Hardware
