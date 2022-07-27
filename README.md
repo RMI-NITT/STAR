@@ -23,6 +23,10 @@ Weather is not a constraint and this system can work all day long. The radar tec
 ##### Sawtooth FMCW
 ![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
 
+#### Distance and Velocity Calculations
+![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
+
+
 #### Hardware
 https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
 
