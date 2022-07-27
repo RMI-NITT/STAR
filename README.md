@@ -31,8 +31,15 @@ Note: We proceeded with triangulated FMCW wave since we had resources for it dur
 #### Hardware
 https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
 
-### References
-
+### Reference Links
+#### FMCW References
+https://www.iist.ac.in/sites/default/files/people/IN14204/Lecture%2022-23-FMCW%20Radar.pdf
+https://www.tutorialspoint.com/radar_systems/radar_systems_fmcw_radar.htm
+https://training.ti.com/intro-mmwave-sensing-fmcw-radars-module-1-range-estimation
+#### Hardware References
+https://e2e.ti.com/support/sensors-group/sensors/f/sensors-forum/1037712/iwr6843aopevm-iwr6843aopevm-which-additional-boards-required?tisearch=e2e-sitesearch&keymatch=IWR6843AOPEVM#
+https://www.ti.com/lit/ug/swru546d/swru546d.pdf?ts=1645507811467&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FIWR6843ISK-ODS
+https://www.ti.com/tool/IWR6843AOPEVM
 
 
 
