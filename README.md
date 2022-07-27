@@ -24,12 +24,19 @@ Weather is not a constraint and this system can work all day long. The radar tec
 ![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
 
 ##### Distance and Velocity Calculations
-_Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time._
-![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
 
+![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
+_Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time._
 
 #### Hardware
 * https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
+
+### Progress till now
+Frequency Modulated Continuous Wave technology is by itself a topic which is actively in research around the world. There are very few resources available for the intention of our problem statement and even if they are found, they generally tend to be too complicated. 
+
+The hardware from Texas Instruments wasn't working hence we weren't able to fully explore. Meetings with signal processing professors and embedded system engineers were held regarding the activation of hardware. Queries were raised in different forums and repeated attempts were made to connect with the customer care of TI. All of these attempts proved to be futile. We lost the competition since we couldn't show any POC. 
+
+However works are still being held on by few RMI members in this project and we hope to get a major breakthrough soon.
 
 ### Reference Links
 #### FMCW References
