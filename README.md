@@ -26,6 +26,7 @@ Weather is not a constraint and this system can work all day long. The radar tec
 ##### Distance and Velocity Calculations
 
 ![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
+
 _Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time._
 
 #### Hardware
@@ -33,6 +34,8 @@ _Note: We proceeded with triangulated FMCW wave since we had resources for it du
 
 ### Progress till now
 Frequency Modulated Continuous Wave technology is by itself a topic which is actively in research around the world. There are very few resources available for the intention of our problem statement and even if they are found, they generally tend to be too complicated. 
+
+Simulations for heartbeat and respiration rate were done in MATLAB and we tried to model how exactly it would work in the background. We tried our best and figured out that this radar technology also had applications in motion tracking, contour detection, area scanning, etc. 
 
 The hardware from Texas Instruments wasn't working hence we weren't able to fully explore. Meetings with signal processing professors and embedded system engineers were held regarding the activation of hardware. Queries were raised in different forums and repeated attempts were made to connect with the customer care of TI. All of these attempts proved to be futile. We lost the competition since we couldn't show any POC. 
 
