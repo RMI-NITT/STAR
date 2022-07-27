@@ -24,22 +24,22 @@ Weather is not a constraint and this system can work all day long. The radar tec
 ![7028 chirp2 gif-480x0](https://user-images.githubusercontent.com/83502978/179922845-af3ce434-1fb9-4b69-a0c6-ca684d457351.png)
 
 ##### Distance and Velocity Calculations
-Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time.
+_Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time._
 ![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
 
 
 #### Hardware
-https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
+* https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
 
 ### Reference Links
 #### FMCW References
-https://www.iist.ac.in/sites/default/files/people/IN14204/Lecture%2022-23-FMCW%20Radar.pdf
-https://www.tutorialspoint.com/radar_systems/radar_systems_fmcw_radar.htm
-https://training.ti.com/intro-mmwave-sensing-fmcw-radars-module-1-range-estimation
+* https://www.iist.ac.in/sites/default/files/people/IN14204/Lecture%2022-23-FMCW%20Radar.pdf
+* https://www.tutorialspoint.com/radar_systems/radar_systems_fmcw_radar.htm
+* https://training.ti.com/intro-mmwave-sensing-fmcw-radars-module-1-range-estimation
 #### Hardware References
-https://e2e.ti.com/support/sensors-group/sensors/f/sensors-forum/1037712/iwr6843aopevm-iwr6843aopevm-which-additional-boards-required?tisearch=e2e-sitesearch&keymatch=IWR6843AOPEVM#
-https://www.ti.com/lit/ug/swru546d/swru546d.pdf?ts=1645507811467&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FIWR6843ISK-ODS
-https://www.ti.com/tool/IWR6843AOPEVM
+* https://e2e.ti.com/support/sensors-group/sensors/f/sensors-forum/1037712/iwr6843aopevm-iwr6843aopevm-which-additional-boards-required?tisearch=e2e-sitesearch&keymatch=IWR6843AOPEVM#
+* https://www.ti.com/lit/ug/swru546d/swru546d.pdf?ts=1645507811467&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FIWR6843ISK-ODS
+* https://www.ti.com/tool/IWR6843AOPEVM
 
 
 
