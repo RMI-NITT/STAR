@@ -33,13 +33,13 @@ _Note: We proceeded with triangulated FMCW wave since we had resources for it du
 * https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
 
 ### Progress till now
-Frequency Modulated Continuous Wave technology is by itself a topic which is actively in research around the world. There are very few resources available for the intention of our problem statement and even if they are found, they generally tend to be too complicated. 
+Frequency Modulated Continuous Wave technology is by itself a topic which is actively in research around the world. There are very few resources available for the intention of this problem statement and even if they are found, they generally tend to be too complicated. 
 
-Simulations for heartbeat and respiration rate were done in MATLAB and we tried to model how exactly it would work in the background. We tried our best and figured out that this radar technology also had applications in motion tracking, contour detection, area scanning, etc. 
+Simulations for heartbeat and respiration rate were modelled in MATLAB. It was also figured out that this radar technology also had applications in motion tracking, contour detection, area scanning, etc. 
 
-The hardware from Texas Instruments wasn't working hence we weren't able to fully explore. Meetings with signal processing professors and embedded system engineers were held regarding the activation of hardware. Queries were raised in different forums and repeated attempts were made to connect with the customer care of TI. All of these attempts proved to be futile. We lost the competition since we couldn't show any POC. 
-
-However works are still being held on by few RMI members in this project and we hope to get a major breakthrough soon.
+The hardware from Texas Instruments, IWR6843AOPEVM, was utilized in this project. Many guides, videos and articles were referred for understanding its working and the potential it holds.
+ 
+ Works are still being held on by RMI members in this project.
 
 ### Reference Links
 #### FMCW References
