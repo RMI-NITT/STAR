@@ -27,7 +27,7 @@ Weather is not a constraint and this system can work all day long. The radar tec
 
 ![image](https://user-images.githubusercontent.com/83502978/181252806-a2399673-33e2-4776-926b-03557532cede.png)
 
-_Note: We proceeded with triangulated FMCW wave since we had resources for it during that point of time._
+_Note: This project proceeded with triangulated FMCW wave since it had some resources to refer to, during that point of time._
 
 #### Hardware
 * https://www.ti.com/product/IWR6843AOPEVM/part-details/IWR6843AOPEVM
