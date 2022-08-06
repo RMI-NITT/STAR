@@ -40,6 +40,11 @@ Simulations for heartbeat and respiration rate were modelled in MATLAB. It was a
 The hardware from Texas Instruments, IWR6843AOPEVM, was utilized in this project. Many guides, videos and articles were referred for understanding its working and the potential it holds.
  
  Works are still being held on by RMI members in this project.
+ 
+ ### Key Contributors 
+ - [Madhav R](https://github.com/madE03)
+ - [Girish K](https://github.com/girish-2001)
+ - [Sunkara Vikash](https://github.com/Vikash2024)
 
 ### Reference Links
 #### FMCW References
