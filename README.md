@@ -1,5 +1,5 @@
 # STAR
-System for Tracking Animals using Radar - Sangam, Pragyan'22
+System for Tracking Animals using Radar 
 
 ### Introduction
 In the course of the last century alone, the planet witnessed the extinction of 18 species of animals. A multitude of wildlife sanctuaries have been established around the globe with the sole purpose of protecting and preserving wildlife in their natural habitat. Despite their eﬀorts, acts of poaching and hunting continue to threaten the existence of many animal species. Locating and monitoring the movement and vitals of the animals in reserves are challenging. 
